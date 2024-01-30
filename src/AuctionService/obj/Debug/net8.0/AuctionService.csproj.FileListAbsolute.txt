@@ -100,3 +100,10 @@ C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\zh-Hant\Microsoft.Cod
 C:\Matrix\SMPs\car-hub\src\AuctionService\obj\Debug\net8.0\AuctionService.csproj.AssemblyReference.cache
 C:\Matrix\SMPs\car-hub\src\AuctionService\obj\Debug\net8.0\AuctionService.csproj.CopyComplete
 C:\Matrix\SMPs\car-hub\src\AuctionService\obj\Debug\net8.0\AuctionService.sourcelink.json
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\MassTransit.dll
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\Contracts.dll
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\Contracts.pdb
+C:\Matrix\SMPs\car-hub\src\AuctionService\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll
